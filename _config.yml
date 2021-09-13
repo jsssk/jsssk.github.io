@@ -35,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : person # "person" (default), "organization"
-  name      : Jasper Risky Xu
+  name      : Weijie Xu
   url       :
   avatar    : /image/avatar/avatar-programmer.jpg # path or url of avatar image (square)
   bio       :  
@@ -44,18 +44,18 @@ author:
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
-  telegram  : vinophantom # "user_name" the last part of your profile url, e.g. https://t.me/user_name
+  telegram  : jasprx # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : vinophantom # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : jsssk # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: vinophantom/vinophantom
+repository: jsssk/jsssk.github.io
 repository_tree: master
 
 
@@ -129,9 +129,9 @@ comments:
   gitalk:
     clientID    : 85011a73b43d11426fa5 # GitHub Application Client ID
     clientSecret: 5c6ca4721e523c53df8a3328f40e493a76cf00df # GitHub Application Client Secret
-    repository  : vinophantom.github.io # GitHub repo
-    owner       : vinophantom # GitHub repo owner
-    admin       : vinophantom # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+    repository  : jsssk.github.io # GitHub repo
+    owner       : jsssk # GitHub repo owner
+    admin       : jsssk # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
 
   ## Valine
